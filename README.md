@@ -1,4 +1,4 @@
-compaas
+Compaas
 =======
 
 Composer as a service
